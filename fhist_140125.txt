@@ -1,0 +1,78 @@
+    1  ls l-
+    2  ls -l
+    3  T:
+    4  /T:
+    5  cd /T
+    6  ~
+    7  cd /t/Gonzalo Pulido
+    8  cd /t
+    9  cd /Gonzalo Pulido
+   10  cd /Gonzalo_Pulido
+   11  cd /Gonzalo
+   12  cd /t/Gonzalo
+   13  cd /t/Gonzalo Pulido
+   14  cd /T/Gonzalo Pulido
+   15  cd -help
+   16  -help
+   17  cd T:\Gonzalo Pulido
+   18  cd /T
+   19  cd /GonzaloPulido
+   20  /Gonzalo
+   21  cd /t/Gonzalo_Pulido
+   22  cd /T/Gonzalo_Pulido
+   23  [200~   cd "Gonzalo Pulido/daw1tgit"
+   24  ~
+   25     cd "Gonzalo Pulido/daw1tgit"
+   26  git init
+   27  git status
+   28  git config user.name "ProgramaGons"
+   29  git config user.gmail "programagons@gmail.com"
+   30  git status
+   31  git add EjemploFichero1.txt
+   32  git status
+   33  git commit
+   34  git config --global user.email "programagons.com"
+   35  git config --global user.name "ProgramaGons"
+   36  git commit
+   37  -
+   38  ~~
+   39  dir
+   40  cd /d
+   41  ls -l
+   42  cd Gonzalo_Pulido
+   43  cd Gonzalo
+   44  cd /t
+   45  ls -l
+   46  cd /Gonzalo Pulido
+   47  /Gonzalo
+   48  cd Gonzalo
+   49  cd Gonzalo_Puliod
+   50  cd Gonzalo_Pulido
+   51  cd Gonzalo Pulido
+   52  cd Gonzalo...
+   53  cd Gonzalo-Pulido
+   54  cd Gonzalo Pulido
+   55  cd Gonzalo\ Pulido/
+   56  ls -l
+   57  mkdir daw1git2
+   58  cd Entornos\ de\ desarrollo/
+   59  ls -l
+   60  mkdir daw1git2
+   61  cd daw1git2
+   62  git init
+   63  ls -l
+   64  git status
+   65  git add primerospasos.txt
+   66  git status
+   67  git config list
+   68  git config --list
+   69  git remote add origin "https://github.com/Programagons/daw1tgit2.git"
+   70  cd /t
+   71  cd Gonzalo\ Pulido/
+   72  ls -l
+   73  cd Entornos\ de\ desarrollo/
+   74  ls -l
+   75  cd daw1git2/
+   76  ls -l
+   77  git config --list
+   78  history > fhist_140125.txt
